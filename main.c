@@ -52,6 +52,11 @@ const uint32_t PAGE_SIZE      = 4096;
 const uint32_t ROWS_PER_PAGE  = PAGE_SIZE / ROW_SIZE;
 const uint32_t TABLE_MAX_ROWS = ROWS_PER_PAGE * TABLE_MAX_PAGES;
 
+//
+//
+//  CONTINUE HERE
+//  https://cstack.github.io/db_tutorial/parts/part3.html
+//
 struct Table_t
 {
 
